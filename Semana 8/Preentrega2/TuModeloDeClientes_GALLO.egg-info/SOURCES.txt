@@ -1,0 +1,8 @@
+setup.py
+TuModeloDeClientes+GALLO/ArmaTuLogin+GALLO.py
+TuModeloDeClientes+GALLO/clientes.py
+TuModeloDeClientes+GALLO/preentrega2.py
+TuModeloDeClientes_GALLO.egg-info/PKG-INFO
+TuModeloDeClientes_GALLO.egg-info/SOURCES.txt
+TuModeloDeClientes_GALLO.egg-info/dependency_links.txt
+TuModeloDeClientes_GALLO.egg-info/top_level.txt
